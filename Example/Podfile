@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MagicTransition_Tests' do
+  pod 'MagicTransition', :path => '../'
+  
+  
+end
