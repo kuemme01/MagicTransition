@@ -1,0 +1,16 @@
+PODS:
+  - MagicTransition (0.1.0)
+
+DEPENDENCIES:
+  - MagicTransition (from `../`)
+
+EXTERNAL SOURCES:
+  MagicTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MagicTransition: 5ad68cebdb68ae2066c31e2732c3217ce2669a62
+
+PODFILE CHECKSUM: 84f5a426437462d72b417f4ae08e96ea68db0cf2
+
+COCOAPODS: 1.5.3

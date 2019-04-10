@@ -1,0 +1,6 @@
+framework module MagicTransition {
+  umbrella header "MagicTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}
